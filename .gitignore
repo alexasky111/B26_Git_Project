@@ -1,0 +1,6 @@
+# We don't want anything in here to be tracked; dot means hidden
+.idea
+*.iml
+*.xml
+# "/" is a folder type that's all -->
+/out
